@@ -1,4 +1,4 @@
-### Atividades da disciplina de Programação para Web, 2º período de Sistemas para Internet
+# Atividades da disciplina de Programação para Web, 2º período de Sistemas para Internet
 
 Atividade 01 - Listagem de Números - 💻 [DEPLOY](https://cheery-moxie-3179c5.netlify.app/) 💻
 

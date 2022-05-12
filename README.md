@@ -9,3 +9,5 @@ Atividade 03 - Listinha de exercícios - *OBSERVAÇÃO: ESTA ATIVIDADE ESTÁ NA 
 Atividade 04 - Exibir Star Wars API com Tabela - 💻 [DEPLOY](https://fanciful-unicorn-20a4de.netlify.app/) 💻
 
 Atividade 05 - Back4App - 💻 [DEPLOY](https://heroic-kringle-dad3c0.netlify.app/) 💻
+
+Atividade 06 - Lista de Tarefas no Back4App - 💻 [DEPLOY](https://aesthetic-empanada-ddb2a3.netlify.app/) 💻

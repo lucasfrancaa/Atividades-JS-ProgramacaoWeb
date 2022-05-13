@@ -5,7 +5,6 @@ body,html {
     height: 100%;
     margin: 0;
     padding: 0;
-    background-size: contain;
 }
 
 #container {
@@ -14,19 +13,9 @@ body,html {
     background-color: rgba(179, 253, 153, 0);
     position: absolute;
     left: 50%;
-    top: 50%;
+    top: 40%;
     transform: translate(-50%, -50%);
-    border-radius: 20px;
-    box-shadow: 0px 0px 50px rgb(208, 255, 179);
 }
-
-#center {
-    padding-top: 50px;
-    padding-bottom: 30px;
-    font-size: 120%;
-    list-style: none;
-}
-
 
 li {
     padding-top: 20px;
@@ -47,7 +36,7 @@ li {
     height: 20px;
     border-color: rgb(255, 255, 255);
     border-radius: 3px;
-    background-color: rgba(255, 255, 255, 0.768);
+    background-color: rgb(255, 255, 255);
     font-style:normal;
     font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     font-size: 16px;
@@ -77,4 +66,3 @@ input::placeholder {
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     font-size: 16px;
 }
-

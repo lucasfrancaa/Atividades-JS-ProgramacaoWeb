@@ -10,4 +10,4 @@ Atividade 04 - Exibir Star Wars API com Tabela - 💻 [DEPLOY](https://fanciful-
 
 Atividade 05 - Back4App - 💻 [DEPLOY](https://heroic-kringle-dad3c0.netlify.app/) 💻
 
-Atividade 06 - Lista de Tarefas no Back4App - 💻 [DEPLOY](https://aesthetic-empanada-ddb2a3.netlify.app/) 💻
+Atividade 06 - Lista de Tarefas no Back4App - 💻 [DEPLOY](https://dancing-dango-9895b3.netlify.app/) 💻
